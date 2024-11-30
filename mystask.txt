@@ -1,0 +1,4 @@
+buy1 = milk
+buy2 = bread
+buy3 = juice
+buy4 = phone
